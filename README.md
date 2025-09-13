@@ -1,17 +1,16 @@
-updatelog
-https://www.roblox.com/games/86075058335764/RETRO-SLOP-HORROR-SURVIVAL
+Version 1.3
++Shop (currently broken sorry), Free Model Farlands (map)
 
 Version 1.2.1
-+Added Ralph (killer), Added New Animations, Added Running/Walking, and Added Flashlight
++Ralph (killer), New Animations, Running/Walking
 
 Version 1.2
-+Added Everything You Know Is Wrong (map), Nullplate (map), and Junkyard (Map)
--Removed Soulja boy and EVIL SANS
++Everything You Know Is Wrong (map), Nullplate (map), and Junkyard (Map)
+-Soulja boy and EVIL SANS
 
 Version 1.1
-+Added Sumo Coil, Dream Island (map), Jungle Islands (map), Rig (killer), Poopy21112 Rig (killer), and Offbrand Conglomerate (killer)
-=Added Special Rounds (1/15 Chance)
--Shortened Intermission Time
+-Sumo Coil, Dream Island (map), Jungle Islands (map), Rig (killer), Poopy21112 Rig (killer), Offbrand Conglomerate (killer), and Special Rounds (1/15 Chance)
+=Shortened Intermission Time
 
 Version 1.0
 +Released the game
