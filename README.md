@@ -1,5 +1,5 @@
 Version 1.3
-+Shop (currently broken sorry), Free Model Farlands (map)
++Shop (currently broken sorry)
 
 Version 1.2.1
 +Ralph (killer), New Animations, Running/Walking
