@@ -1,8 +1,12 @@
 updatelog
 https://www.roblox.com/games/86075058335764/RETRO-SLOP-HORROR-SURVIVAL
 
+Version 1.2.1
++Added Ralph (killer)
+
 Version 1.2
-+Added Everything You Know Is Wrong (map), Nullplate (map), and Junkyard (Map)
++Added Everything You Know Is Wrong (map), Nullplate (map), 
+and Junkyard (Map)
 -Removed Soulja boy and EVIL SANS
 
 Version 1.1
