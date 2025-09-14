@@ -9,7 +9,7 @@ Version 1.2
 -Soulja boy and EVIL SANS
 
 Version 1.1
--Sumo Coil, Dream Island (map), Jungle Islands (map), Rig (killer), Poopy21112 Rig (killer), Offbrand Conglomerate (killer), and Special Rounds (1/15 Chance)
++Sumo Coil, Dream Island (map), Jungle Islands (map), Rig (killer), Poopy21112 Rig (killer), Offbrand Conglomerate (killer), and Special Rounds (1/15 Chance)
 =Shortened Intermission Time
 
 Version 1.0
