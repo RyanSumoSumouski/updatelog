@@ -1,3 +1,8 @@
+Version 1.4
++Readded Soulja boy and Readded + Revamped EVIL SANS,  +Insert Tool Sanguinariius, "Revamped" Player Animations
+=Killer AI Overhaul
+-Nullplate (Map), Removed Shop (for now), Poopy21112 Rig
+
 Version 1.3
 +Shop (currently broken sorry)
 
