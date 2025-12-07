@@ -1,3 +1,7 @@
+Version 1.4.1
++Bhopping Zombie and MLG Haxx0r
+=Fixed GUI being funky on some devices
+
 Version 1.4
 +Readded Soulja boy and Readded + Revamped EVIL SANS,  +Insert Tool Sanguinariius, "Revamped" Player Animations
 =Killer AI Overhaul
